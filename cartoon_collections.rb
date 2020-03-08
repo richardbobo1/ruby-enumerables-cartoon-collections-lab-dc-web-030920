@@ -32,22 +32,7 @@ end
 
 
 
-#testtttt 
 
-# def find_the_cheese(array_of_strings)
-#   x = 0 
-#   while x < cheese_types.length do 
-# if 
-# array_of_strings.any? {
-#   |x| cheese_types.include?(array_of_strings)
-# } == true 
-# return cheese_types[x]
-# else 
-#   x += 1 
-# end 
-
-
-#enddddd 
 
 def find_the_cheese(array_of_strings)
   cheese_types = ["cheddar", "gouda", "camembert"]
